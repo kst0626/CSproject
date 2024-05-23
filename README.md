@@ -6,8 +6,9 @@ https://github.com/kst0626/CSproject/assets/152972876/0f66261b-3045-458d-b34f-8e
 # mediapipe
 
 # 오류1-네트워크 연결문제
-  브릿지, nat 등 연결 방식을 바꿔도 해결이 안됨
+  브릿지, nat 등 연결 방식을 바꿔도 해결이 안되어서
   네트워크 연결문제로 vmware 재설치  
+  
   해당 명령어 사용
   
   ![network solution](https://github.com/kst0626/CSproject/assets/152972876/62063067-f10c-4a7d-9bd1-a832df535dea)

@@ -21,5 +21,5 @@ https://github.com/kst0626/CSproject/assets/152972876/0f66261b-3045-458d-b34f-8e
   sol1)해당 오류 발생으로 conda가 아닌 코드로 직접 설치시도했으나 디스크 공간 부족 문구가 뜨며 오류발생
   ![mperror2](https://github.com/kst0626/CSproject/assets/152972876/e821a659-4533-4c44-b5bc-85285c0d685d)
 
-  sol2) 아예 새로운 콘다 가상환경을 만들고 패키지 설치 중 똑같이 디스크 공간 부족 문구가 뜨며 오류발생
-  ![mperror2](https://github.com/kst0626/CSproject/assets/152972876/e821a659-4533-4c44-b5bc-85285c0d685d)
+  sol2) 아예 새로운 콘다 가상환경(python version 3.9)을 만들고 패키지 설치 중 똑같이 디스크 공간 부족 문구가 뜨며 오류발생
+   

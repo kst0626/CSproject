@@ -3,6 +3,7 @@
 # 가상환경에서 tts구동
 https://github.com/kst0626/CSproject/assets/152972876/0f66261b-3045-458d-b34f-8ecafec1bd1b
 
+ssh로 구동하였으며 myenv는 가상환경 이름임
 # mediapipe
 
 # 오류1-네트워크 연결문제

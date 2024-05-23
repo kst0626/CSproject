@@ -14,6 +14,7 @@ https://github.com/kst0626/CSproject/assets/152972876/0f66261b-3045-458d-b34f-8e
   ![network solution](https://github.com/kst0626/CSproject/assets/152972876/62063067-f10c-4a7d-9bd1-a832df535dea)
   
   dhcp 서버로부터 아이피를 받아오는 명령어
+ 
   그러나 vmware 재시작할 때마다 해당 명령어를 입력해야만 연결되는 문제있음
 
 # 오류2-mediapipe 설치오류

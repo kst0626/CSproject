@@ -1,7 +1,18 @@
 import pygame
 from gtts import gTTS
 import time
+import os
 
+def text_to_speech(text,filename):
+    tts = gTTS(text= text,lang='en')
+    tts.save(filename)
+
+text = "test env server mp3"
+filename = "test1.mp3"
+
+text_to_speech(text,filename)
+
+os.system(f"mpg123 {filename}") 
 def text_to_speech(text, filename):
     tts = gTTS(text=text, lang='en')
     tts.save(filename)

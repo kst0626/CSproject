@@ -6,7 +6,8 @@
 ## 작품개요: 실시간으로 카메라를 이용해 운동영상을 띄운 뒤에 음성으로 자세를 교정하게 해주는 ai 헬스 케어
 
 ## 블럭도
-![CSproject1 drawio](https://github.com/kst0626/CSproject/assets/152972876/3dab4bc3-7c54-4e23-912d-a7a37055cd9f)
+<img width="481" alt="블록도" src="https://github.com/kst0626/CSproject/assets/152972876/f1dce628-9309-4a83-872e-fa6908931556">
+
 
 *미디어파이프(Mediapipe)-구글에서 주로 인체를 대상으로 하는 비전 인식기능들을 AI모델 개발과 기계 학습까지 마친 상태로 제공하는 서비스
 

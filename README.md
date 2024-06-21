@@ -20,6 +20,7 @@ https://github.com/Cubechan/Capston_Design/assets/168626501/7437446c-05b3-48f4-8
 
 
 
+
 ## tts 가상환경에서 구현(5/22)
 https://github.com/Cubechan/Capston_Design/assets/168626501/3d385356-4651-469c-9038-358d5fbac586
 

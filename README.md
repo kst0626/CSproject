@@ -24,6 +24,8 @@ https://github.com/Cubechan/Capston_Design/assets/168626501/7437446c-05b3-48f4-8
 ## tts 가상환경에서 구현(5/22)
 https://github.com/Cubechan/Capston_Design/assets/168626501/3d385356-4651-469c-9038-358d5fbac586
 
+## Mediapipe 랜드 마크
+![미디어 파이프](https://github.com/kst0626/CSproject/assets/152972876/043f3e18-848f-4ec4-93c1-b7aefcbf517e)
 
 ## Mediapipe에서 스쿼트 운동 자세 실시간으로 출력, tts 출력
 https://github.com/kst0626/CSproject/assets/152972876/72130d87-24df-4c5d-a6f4-ecf50c7630af

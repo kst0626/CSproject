@@ -20,9 +20,16 @@ https://github.com/Cubechan/Capston_Design/assets/168626501/7437446c-05b3-48f4-8
 
 
 
-
 ## tts 가상환경에서 구현(5/22)
 https://github.com/Cubechan/Capston_Design/assets/168626501/3d385356-4651-469c-9038-358d5fbac586
+
+## stt 테스트 구현
+https://github.com/kst0626/CSproject/assets/152972876/fd75ce74-9bac-451b-b54d-f4fa6701f7d0
+
+
+## tts와 stt를 활용한 스케줄러 구현 (6/6)
+https://github.com/kst0626/CSproject/assets/152972876/19fa4aa9-7ce5-4d55-ad13-f54d98fb4a22
+
 
 ## Mediapipe 랜드 마크
 ![미디어 파이프](https://github.com/kst0626/CSproject/assets/152972876/043f3e18-848f-4ec4-93c1-b7aefcbf517e)

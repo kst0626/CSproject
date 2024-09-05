@@ -36,3 +36,8 @@ https://github.com/kst0626/CSproject/assets/152972876/19fa4aa9-7ce5-4d55-ad13-f5
 
 ## Mediapipe에서 스쿼트 운동 자세 실시간으로 출력, tts 출력
 https://github.com/kst0626/CSproject/assets/152972876/72130d87-24df-4c5d-a6f4-ecf50c7630af
+
+## 이후 계획
+- 다양한 운동 동작 추가
+- 음악 기능 추가
+- 웹프로그래밍 시도(출력영상 나타내기위함)

@@ -37,7 +37,7 @@ https://github.com/kst0626/CSproject/assets/152972876/19fa4aa9-7ce5-4d55-ad13-f5
 ## Mediapipe에서 스쿼트 운동 자세 실시간으로 출력, tts 출력
 https://github.com/kst0626/CSproject/assets/152972876/72130d87-24df-4c5d-a6f4-ecf50c7630af
 
-## 기능 업데이트
+## 기능 업데이트 (9/20)
 스쿼트 운동 중에 음악재생 기능 추가
 
 stt 기능을 활용하여 음성인식 키(우리 조는 'm'키로 설정)로 음악 재생 및 정지 구현
@@ -45,3 +45,13 @@ stt 기능을 활용하여 음성인식 키(우리 조는 'm'키로 설정)로 �
 이후의 다양한 기능 추가 예정
 
 https://github.com/user-attachments/assets/ce859edb-1f91-49af-b696-0fb9953744dc
+
+## 웹페이지 구현 (9/27)
+URL:  https://kboard-e627d0c6b98a.herokuapp.com
+
+기존 코드의 관리를 용이하기 위해 python 사용
+
+윈도우 기반이기 때문에 Waitress로 어플리케이션 실행
+
+heroku를 이용하여 어플리케이션 배포(url 생성)
+

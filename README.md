@@ -63,3 +63,6 @@ heroku를 이용하여 어플리케이션 배포(url 생성)
 ![music_2](https://github.com/user-attachments/assets/6cc8f571-a93f-4c60-8f41-fc4105d6e87f)
 
 
+https://github.com/user-attachments/assets/c07b8276-9fb6-46dc-863c-84fa5541cd07
+
+사용자가 원하는 음악 요청시 설정된 API에 음악을 검색 후 음악 송출

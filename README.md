@@ -56,3 +56,4 @@ URL:  https://kboard-e627d0c6b98a.herokuapp.com
 heroku를 이용하여 어플리케이션 배포(url 생성)
 
 ## 부가기능 추가구현 (10/11)
+![music_1](https://github.com/user-attachments/assets/d94551d6-cd3e-4bca-a0eb-d5938feb400b)
